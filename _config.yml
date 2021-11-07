@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: LEP101
 subtitle: ''
 description: ''
 keywords:
@@ -103,6 +103,6 @@ theme: shoka
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:LWP123456789/LWP123456789.github.io.git
-  branch: main
+  repo: git@110.42.128.150:/home/git/blog.git          
+  branch: master
 
